@@ -1,3 +1,4 @@
+pub mod find_anagrams;
 pub mod group_anagrams;
 pub mod lols;
 pub mod longest_consecutive;

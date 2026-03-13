@@ -1,5 +1,7 @@
+// mod hdu;
 mod leetcode;
 
 fn main() {
-    leetcode::lols::test();
+    leetcode::find_anagrams::test();
+    // hdu::test::test();
 }
