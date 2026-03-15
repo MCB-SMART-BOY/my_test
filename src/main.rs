@@ -2,6 +2,6 @@
 mod leetcode;
 
 fn main() {
-    leetcode::subarray_sum::test();
+    leetcode::msw::test();
     // hdu::test::test();
 }
