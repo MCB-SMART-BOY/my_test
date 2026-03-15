@@ -2,6 +2,6 @@
 mod leetcode;
 
 fn main() {
-    leetcode::find_anagrams::test();
+    leetcode::subarray_sum::test();
     // hdu::test::test();
 }
