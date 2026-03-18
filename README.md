@@ -59,7 +59,7 @@
 | 2 | 438 | 找到字符串中所有字母异位词 | 中等 | 哈希表、字符串、滑动窗口 | [find_anagrams.rs](./src/leetcode/find_anagrams.rs) |
 | 3 | 560 | 和为 K 的子数组 | 中等 | 数组、哈希表、前缀和 | [subarray_sum.rs](./src/leetcode/subarray_sum.rs) |
 | 4 | 239 | 滑动窗口最大值 | 困难 | 队列、数组、滑动窗口、单调队列 | [msw.rs](./src/leetcode/msw.rs) |
-| 5 | 76 | 最小覆盖子串 | 困难 | 哈希表、字符串、滑动窗口 | | [min_window](./src/leetcode/min_window.rs)
+| 5 | 76 | 最小覆盖子串 | 困难 | 哈希表、字符串、滑动窗口 | | [min_window](./src/leetcode/min_window.rs) |
 
 ### 普通数组
 
