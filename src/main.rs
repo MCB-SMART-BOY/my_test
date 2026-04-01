@@ -2,6 +2,6 @@
 mod leetcode;
 
 fn main() {
-    leetcode::pes::test();
+    leetcode::fmp::test();
     // hdu::test::test();
 }

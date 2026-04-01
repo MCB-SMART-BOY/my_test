@@ -13,4 +13,5 @@
 // pub mod max_sub_array;
 // pub mod merge;
 // pub mod rotate;
-pub mod pes;
+// pub mod pes;
+pub mod fmp;
