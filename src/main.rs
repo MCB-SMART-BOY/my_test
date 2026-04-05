@@ -2,6 +2,6 @@
 mod leetcode;
 
 fn main() {
-    leetcode::fmp::test();
+    leetcode::set_zeroes::test();
     // hdu::test::test();
 }
