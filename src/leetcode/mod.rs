@@ -15,4 +15,5 @@
 // pub mod rotate;
 // pub mod pes;
 // pub mod fmp;
-pub mod set_zeroes;
+// pub mod set_zeroes;
+pub mod stickers;
